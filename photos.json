@@ -1,0 +1,39 @@
+{
+  "photos":
+  [
+    {
+      "src": "koza.jpg",
+      "title": "Nórska krásavica",
+      "description": "Toto zviera bolo zachytené v Nórsku, kde sme ho videli na každom kroku"
+    },
+    {
+      "src": "alesund.jpg",
+      "title": "Prístavné mesto v Nórsku",
+      "description": "Obľúbená turistická oblasť."
+    },
+    {
+      "src": "ladovec.jpg",
+      "title": "Ľadovec",
+      "description": "Ľadovvce v Nórsku sa každým rokom zmenšujú "
+    }
+  ,
+    {
+      "src": "hory.jpg",
+      "title": "Horská príroda",
+      "description": "Zasnežené kopce, vo výške viac ako 1800m.n.m. Majestátne výhľady"
+    }
+  ,
+    {
+      "src": "kajak.jpg",
+      "title": "Kajak",
+      "description": "Kajakovanie na jazere Lovatnet s priezračne čistou vodou."
+    }
+  ,
+    {
+      "src": "turistika.jpg",
+      "title": "Turistika",
+      "description": "Náročná túra, ktorá stála za to."
+    }
+
+  ]
+}
